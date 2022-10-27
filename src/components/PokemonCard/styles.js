@@ -65,10 +65,10 @@ export const CatchButton = styled.button`
 `;
 
 export const Pokemon = styled.img`
-width: 193px;
-height: 193px;
-position: absolute;
-top: -60px;
-right: 0;
-z-index: 2;
-`
+  width: 193px;
+  height: 193px;
+  position: absolute;
+  top: -60px;
+  right: 0;
+  z-index: 2;
+`;
